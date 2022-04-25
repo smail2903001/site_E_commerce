@@ -24,7 +24,7 @@ if (isset($_POST['email'])){
 }
 ?>
 <form class="box" action="" method="post" name="login">
-<h1 class="box-logo box-title"><a href="https://waytolearnx.com/">Livres Chtayba</a></h1>
+<h1 class="box-logo box-title"><a href="#">Livres Chtayba</a></h1>
 <h1 class="box-title">Connexion</h1>
 <input type="email" class="box-input" name="email" placeholder="email"><br><br>
 <input type="password" class="box-input" name="password" placeholder="Mot de passe"><br><br>
